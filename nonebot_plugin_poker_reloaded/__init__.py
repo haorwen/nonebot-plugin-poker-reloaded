@@ -12,7 +12,7 @@ from nonebot_plugin_apscheduler import scheduler
 __plugin_meta__ = PluginMetadata(
     name="扑克对决",
     description="对[MoonofBridge24/nonebot_plugin_poker](https://github.com/MoonofBridge24/nonebot_plugin_poker)进行了重构，使用alconna以兼容几乎所有适配器，详细请见仓库",
-    usage="扑克对决/卡牌对决/接受：发起或接受对决\n重置对决：允许参与者或者群管重置本群对决\n出牌 1/2/3：出牌命令",
+    usage="扑克对决/卡牌对决/接受：发起或接受对决\n重置对决：允许参与者重置本群对决\n出牌 1/2/3：出牌命令",
     type="application",
     homepage="https://github.com/haorwen/nonebot-plugin-poker-reloaded",
     supported_adapters={"~"},
