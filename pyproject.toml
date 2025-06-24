@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "nonebot_plugin_poker_reloaded"
-version = "0.4.1"
+version = "0.1.0"
 description = "Nonebot2 plugin for poker-reloaded"
 authors = ["haorwen <haorwen@qq.com>"]
 license = "MIT"
