@@ -23,10 +23,12 @@ _✨ 一个扑克对决插件 ✨_
 
 ## 📖 介绍
 
-对[MoonofBridge24/nonebot_plugin_poker](https://github.com/MoonofBridge24/nonebot_plugin_poker)进行了重构，使用alconna以兼容几乎所有适配器
+对[MoonofBridge24/nonebot_plugin_poker](https://github.com/MoonofBridge24/nonebot_plugin_poker)进行了重构，使用alconna以兼容几乎所有适配器，注意本插件为自用，使用了真寻相关util，需要在真寻bot下运行
 
 
 ## 💿 安装
+
+你首先需要安装绪山真寻BOT！
 
 <details open>
 <summary>使用 nb-cli 安装（本插件暂未发布，无法使用该方式）</summary>
